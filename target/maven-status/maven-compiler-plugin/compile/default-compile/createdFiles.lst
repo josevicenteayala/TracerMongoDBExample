@@ -1,0 +1,12 @@
+com\humano\innova\tracer\mongodbtracer\service\CustomerService.class
+com\humano\innova\tracer\mongodbtracer\dao\CustomerDaoImpl.class
+com\humano\innova\tracer\annotation\Traced.class
+com\humano\innova\tracer\mongodbtracer\controller\CustomerController.class
+com\humano\innova\tracer\mongodbtracer\dao\CustomerDao.class
+com\humano\innova\tracer\mongodbtracer\WebInitializer.class
+com\humano\innova\tracer\aspect\CustomerServiceAspect.class
+com\humano\innova\tracer\mongodbtracer\service\CustomerServiceImpl.class
+com\humano\innova\tracer\mongodbtracer\App.class
+com\humano\innova\tracer\aspect\TracedAspect.class
+com\humano\innova\tracer\mongodbtracer\WebConfig.class
+com\humano\innova\tracer\mongodbtracer\model\Customer.class
